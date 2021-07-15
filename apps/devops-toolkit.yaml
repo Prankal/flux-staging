@@ -16,7 +16,7 @@ spec:
   targetNamespace: staging
   values:
     image:
-      tag: 2.9.17
+      tag: 2.9.9
     ingress:
-      host: staging.devops-toolkit.https://4B353002CB0C5B8AECB30FB04FDB1A35.gr7.us-west-2.eks.amazonaws.com.nip.io
+      host: staging.devops-toolkit.192.168.49.2.nip.io
 
